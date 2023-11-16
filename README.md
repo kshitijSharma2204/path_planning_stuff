@@ -9,4 +9,4 @@ gcc
 Open Terminal and go to the build folder  
 Run `cmake ..`  
 Run `make`  
-Execute the executable file using `./astar_dijkstra`  
+Run the executable
